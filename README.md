@@ -1,21 +1,16 @@
-👋 Hey there! I'm **Ganesh Derkar**, a dedicated **Open Source Contributor** and **MERN Stack Developer**.
+<div align="center">
+👋 Hey there! I'm Ganesh Derkar
 
-🚀 **Skills & Expertise**:
-- 💻 **MERN** (MongoDB, Express, React, Node.js)
-- 🗄️ **SQL** & **DBMS**
-- 🐧 **Linux** enthusiast
-- 🌐 **Computer Networks**
-- 🛠️ **Git** for version control
+A Dedicated Open Source Contributor & MERN Stack Developer
 
-🔭 I'm always on the lookout for new opportunities to contribute and collaborate. Currently **open to work**, I love solving complex problems and building efficient, scalable applications.
+🚀 Skills & Expertise
+<table style="width:100%;"> <tr> <td>💻 <b>MERN Stack</b> (MongoDB, Express, React, Node.js)</td> <td>🗄️ <b>SQL & DBMS</b></td> </tr> <tr> <td>🐧 <b>Linux Enthusiast</b></td> <td>🌐 <b>Computer Networks</b></td> </tr> <tr> <td colspan="2">🛠️ <b>Git for Version Control</b></td> </tr> </table>
 
-📫 **Contact me**: [![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail&logoColor=white)](mailto:ganesh.derkar.dev@gmail.com)
+🔭 Open to Work | Problem Solver | Efficient & Scalable App Developer
+📫 Contact Me
 
-🌐 **Connect with me**:
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganesh-derkar)
-- [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://x.com/_GaneshDerkar)
-- [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/GaneshDev18/)
+🌐 Connect with Me
 
-🌱 I'm also passionate about learning new technologies, contributing to the community, and growing as a developer.
-
+🌱 Passionate about learning new technologies, contributing to the community, and growing as a developer.
 ✨ Let's connect and create something amazing together!
+</div>
