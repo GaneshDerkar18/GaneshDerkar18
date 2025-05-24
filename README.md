@@ -1,47 +1,59 @@
-<div align="center">
+# 💼 Ganesh Derkar
 
-# 👋 Hey there! I'm **Ganesh Derkar**
-
-### A Dedicated **Open Source Contributor** & **MERN Stack Developer**
-
----
-
-## 🚀 Skills & Expertise
-<table style="width:100%;">
-  <tr>
-    <td align="center">💻 **MERN Stack** <br> MongoDB, Express, React, Node.js</td>
-    <td align="center">🗄️ **SQL & DBMS**</td>
-  </tr>
-  <tr>
-    <td align="center">🐧 **Linux Enthusiast**</td>
-    <td align="center">🌐 **Computer Networks**</td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">🛠️ **Git for Version Control**</td>
-  </tr>
-</table>
+📧 **Email:** ganesh.derkar.dev@gmail.com  
+📱 **Phone:** +91 8275655912  
+🌐 **Portfolio:** [ganeshderkarportfolio.netlify.app](https://ganeshderkarportfolio.netlify.app)  
+💼 **LinkedIn:** [linkedin.com/in/ganesh-derkar](https://www.linkedin.com/in/ganesh-derkar)  
+💻 **GitHub:** [github.com/GaneshDerkar18](https://github.com/GaneshDerkar18)  
 
 ---
 
-## 🔭 Open to Work | Problem Solver | Efficient & Scalable App Developer
+## 🎯 Summary
+Computer Engineering student with real-world experience in full-stack development using **React.js**, **Node.js**, **MongoDB**, and **Tailwind CSS**. Proficient in building performant UIs and secure APIs. Solved **300+ DSA problems**. Built and deployed projects like **NetflixGPT** and a **Parcel-powered food delivery app**.
 
 ---
 
-## 📫 Contact Me
-
-[![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D44638&color=red&label=email)](mailto:ganesh.derkar.dev@gmail.com)
-
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ganesh-derkar) 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/_GaneshDerkar)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/GaneshDev18/)
+## 🎓 Education
+**B.Tech – Computer Engineering**  
+MIT Academy of Engineering, Pune *(2021–2025)*  
+**CGPA:** 8.29
 
 ---
 
-🌱 **Passionate about learning new technologies, contributing to the community, and growing as a developer.**  
-✨ Let’s connect and create something amazing together!
+## 🛠️ Technical Skills
+- **Languages:** C++, Python, JavaScript, HTML, CSS  
+- **Frontend:** React.js, Redux, Tailwind CSS, React Router  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Tools:** Git, GitHub, VS Code, Postman, Parcel
 
-</div>
+---
+
+## 🚀 Projects
+
+### 📽️ NetflixGPT *(Jan–Mar 2024)*
+- Full-stack movie recommendation app with GPT-3.5 integration.  
+- Built with React.js, Firebase Auth, Redux Toolkit, Tailwind CSS.
+
+### 🍔 Food Delivery App *(Mar–Apr 2024)*
+- Built live from scratch using Parcel and React.js.  
+- Features include dynamic routing, Redux for state, and API-based restaurant data.
+
+### ❤️ Tinder Clone *(Oct–Nov 2024)*
+- JWT-based authentication with React frontend and Node.js/Express backend.  
+- MongoDB schema design, interactive frontend UI, and RESTful APIs.
+
+### And many more....
+
+---
+
+## 💼 Internships
+
+### Suvidha Foundation *(Jun–Jul 2024)*
+**Role:** React Developer  
+- Developed a service-based platform with React.js, styled UI, and component logic (e.g., accordions).
+
+### IBM SkillBuild *(Jan 2023)*
+**Role:** Frontend Developer  
+- Built frontend application using HTML, CSS, JavaScript focusing on DOM interaction.
+
+---
