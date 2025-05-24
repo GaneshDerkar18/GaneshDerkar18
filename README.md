@@ -1,7 +1,6 @@
 # 💼 Ganesh Derkar
 
 📧 **Email:** ganesh.derkar.dev@gmail.com  
-📱 **Phone:** +91 8275655912  
 🌐 **Portfolio:** [ganeshderkarportfolio.netlify.app](https://ganeshderkarportfolio.netlify.app)  
 💼 **LinkedIn:** [linkedin.com/in/ganesh-derkar](https://www.linkedin.com/in/ganesh-derkar)  
 💻 **GitHub:** [github.com/GaneshDerkar18](https://github.com/GaneshDerkar18)  
