@@ -8,7 +8,7 @@
 ---
 
 ## 🎯 Summary
-Computer Engineering student with real-world experience in full-stack development using **React.js**, **Node.js**, **MongoDB**, and **Tailwind CSS**. Proficient in building performant UIs and secure APIs. Solved **300+ DSA problems**. Built and deployed projects like **NetflixGPT** and a **Parcel-powered food delivery app**.
+Computer Engineering student with real-world experience in full-stack development using **React.js**, **Node.js**, **MongoDB**, and **Tailwind CSS**. Proficient in building performant UIs and secure APIs. Built and deployed projects like **NetflixGPT** and a **Parcel-powered food delivery app**.
 
 ---
 
