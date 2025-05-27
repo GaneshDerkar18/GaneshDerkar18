@@ -29,15 +29,15 @@ MIT Academy of Engineering, Pune *(2021–2025)*
 
 ## 🚀 Projects
 
-### 📽️ NetflixGPT *(Jan–Mar 2024)*
+### 📽️ NetflixGPT 
 - Full-stack movie recommendation app with GPT-3.5 integration.  
 - Built with React.js, Firebase Auth, Redux Toolkit, Tailwind CSS.
 
-### 🍔 Food Delivery App *(Mar–Apr 2024)*
+### 🍔 Food Delivery App 
 - Built live from scratch using Parcel and React.js.  
 - Features include dynamic routing, Redux for state, and API-based restaurant data.
 
-### ❤️ Tinder Clone *(Oct–Nov 2024)*
+### ❤️ Tinder Clone 
 - JWT-based authentication with React frontend and Node.js/Express backend.  
 - MongoDB schema design, interactive frontend UI, and RESTful APIs.
 
